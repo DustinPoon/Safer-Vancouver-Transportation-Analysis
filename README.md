@@ -1,6 +1,6 @@
 #Source codes for Social Data Analytics Project
 
-Built upon the Transporation Vancouver 2040 Challenge form CityStudio and the city of Vancouver
+A revised version of the SDA project. This project is about creating visualization for all the data analysis on improving transportation.  
 
 Project in a group of 4
 
