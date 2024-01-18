@@ -1,0 +1,13 @@
+name: webpage
+title: webpage
+username:
+account: dp-sdaproject
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8769365
+bundleId: 7073502
+url: https://dp-sdaproject.shinyapps.io/webpage/
+when: 1681183019.39967
+lastSyncTime: 1681183019.39967
+asMultiple: FALSE
+asStatic: FALSE
