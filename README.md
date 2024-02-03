@@ -4,4 +4,4 @@ A revised version of the SDA project. This project is about creating visualizati
 
 Project in a group of 3
 
-Finalized website using R-studio: https://dp-sdaproject.shinyapps.io/webpage/
+Finalized dashboard using R-studio: https://dp-sdaproject.shinyapps.io/webpage/
